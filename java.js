@@ -5,8 +5,8 @@ console.log(mas)
 
 //2
 
-const hD2 = [1,2,3]
-hD2.push(4,5)
+const hD2 = ['phone','pc','red']
+hD2.push()
 console.log(hD2)
 
 //3
